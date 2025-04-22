@@ -1,0 +1,26 @@
+{
+	"name": "addivs-cyan",
+	"displayName": "Addiv's Cyan",
+	"description": "A vibrant cyan VS Code theme inspired by Addiv's Pink.",
+	"version": "1.0.0",
+	"publisher": "Addiv",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Addiv420/Addivs-Cyan-VSCode"
+	},
+	"engines": {
+		"vscode": "^1.99.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Addiv's Cyan",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Addiv's Cyan-color-theme.json"
+			}
+		]
+	}
+}
