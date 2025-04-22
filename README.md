@@ -4,22 +4,24 @@ Addiv’s Cyan is a calm yet vibrant VS Code theme inspired by clarity and creat
 
 ---
 
-## ✨ Features
+## 📸 Preview
 
-- Bright cyan accents with dark, soft contrast background
-- Carefully selected tones for readability and accessibility
-- Fully themed UI: activity bar, sidebar, status bar, and terminal
-- Consistent style across languages (JS, Python, C++, HTML, etc.)
+![Theme Preview](https://github.com/Addiv420/Addivs-Pink-VSCode/blob/main/screenshots/editor.png?raw=true)
 
 ---
 
-## 📸 Preview
+## ✨ Features
 
-![Theme Preview](https://github.com/Addiv420/Addivs-Cyan-VSCode/blob/main/screenshots/editor.png?raw=true)
+- Light cyan background with subtle contrasting highlights
+- Carefully chosen colors for readability and accessibility
+- Fully themed UI, including activity bar, sidebar, status bar, and terminal
+- Styled for consistency across languages (JS, Python, C++, HTML, etc.)
 
 ---
 
 ## 🔧 Installation
+
+To install **Addiv's Cyan** theme, follow these steps:
 
 1. Open **Visual Studio Code**
 2. Go to the **Extensions** view (`Ctrl+Shift+X`)
@@ -27,23 +29,7 @@ Addiv’s Cyan is a calm yet vibrant VS Code theme inspired by clarity and creat
 4. Click **Install**
 5. Press `Ctrl+K Ctrl+T` and select **Addiv's Cyan** from the theme list
 
-Or install directly from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=Addiv.addivs-cyan)
-
----
-
-## 🖼 Matching Aesthetic
-
-To complete the look:
-- Use a monospaced font with ligatures (e.g. Fira Code, JetBrains Mono)
-- Enable smooth cursor animation and transparent terminal
-
----
-
-## 📂 Repository
-
-[GitHub – Addiv’s Cyan Theme](https://github.com/Addiv420/Addivs-Cyan-VSCode)
-
-Contributions, feedback and PRs are always welcome 💬
+Alternatively, you can install it directly from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Addiv.addivs-cyan).
 
 ---
 
