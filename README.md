@@ -1,7 +1,6 @@
 # Addiv's Cyan VS Code Theme
 
-A vibrant and clean cyan theme for Visual Studio Code, designed to be refreshing, readable, and cool.  
-Perfect for those who love cyber aesthetics, clear syntax highlighting, and a modern coding vibe.
+Addiv’s Cyan is a calm yet vibrant VS Code theme inspired by clarity and creativity. Designed to feel refreshing, like coding in a clear blue sky.
 
 ---
 
