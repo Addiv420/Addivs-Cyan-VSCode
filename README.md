@@ -6,7 +6,7 @@ Addiv’s Cyan is a calm yet vibrant VS Code theme inspired by clarity and creat
 
 ## 📸 Preview
 
-![Theme Preview](https://github.com/Addiv420/Addivs-Pink-VSCode/blob/main/screenshots/editor.png?raw=true)
+![Theme Preview](https://github.com/Addiv420/Addivs-Cyan-VSCode/blob/main/screenshots/editor.png?raw=true)
 
 ---
 
